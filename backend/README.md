@@ -1,9 +1,8 @@
 # Anotações - Semana Omnistack 11.0
----
 
 ## Tecnologias
- * **Server**: nodemon
- * **Data Base**: sqlite3
+ * **Server Restart**: nodemon
+ * **Database**: sqlite3
  * **Query Builder**: knex
 
 
